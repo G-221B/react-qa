@@ -1,0 +1,1 @@
+export const CODE_SIZE = 4 // 验证码个数
